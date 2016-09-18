@@ -20,3 +20,7 @@ author:
   email: guido@guidovenitucci.com
   url: www.guidovenitucci.com
 name: Venitucci Photography
+purpose:
+  - type: contact
+    url: 'mailto:guido@guidovenitucci.com'
+    label: Contact me
