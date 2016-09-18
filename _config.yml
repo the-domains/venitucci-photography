@@ -24,3 +24,6 @@ purpose:
   - type: contact
     url: 'mailto:guido@guidovenitucci.com'
     label: Contact me
+  - type: external
+    url: 'https://directory.bookedin.com/guidovenitucci'
+    label: Book Now
