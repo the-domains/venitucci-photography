@@ -1,0 +1,22 @@
+typography_spectrum: 0.6446674102917314
+color:
+  brandStrength: 0.10056354384869337
+  lightness: 0.19157675025053322
+  saturation: 0.10863300785422325
+  rhythmicContrast: 0.6032751828897744
+  brandColors:
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0c80632-8f06-47b2-a7e5-4e7ba459c6d0.jpg
+layout_spectrum: 0.004357554949820042
+author:
+  name: Guido Venitucci
+  email: guido@guidovenitucci.com
+  url: www.guidovenitucci.com
+name: Venitucci Photography
