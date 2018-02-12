@@ -20,10 +20,6 @@ author:
   email: guido@guidovenitucci.com
   url: www.guidovenitucci.com
 name: Venitucci Photography
-navigation:
-  - name: About Me
-    id: f3880d3a-a583-43b3-93cb-5a8505edcc07
-    type: content
 purpose:
   - type: contact
     url: 'mailto:guido@guidovenitucci.com'
