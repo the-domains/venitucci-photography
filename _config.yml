@@ -1,4 +1,3 @@
-layout_spectrum: 0.7515513389348283
 typography_spectrum: 0.0924346974401707
 color:
   brandStrength: 0.10950023928417428
@@ -15,11 +14,17 @@ github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0c80632-8f06-47b2-a7e5-4e7ba459c6d0.jpg
+layout_spectrum: 0.7515513389348283
 author:
   name: Guido Venitucci
   email: guido@guidovenitucci.com
   url: www.guidovenitucci.com
 name: Venitucci Photography
+navigation:
+  - name: Gallery
+    id: bd98d8a5-b929-4ade-b3cb-ef15492619ce
+    type: content
+content: []
 purpose:
   - type: contact
     url: 'mailto:guido@guidovenitucci.com'
@@ -27,4 +32,3 @@ purpose:
   - type: external
     url: 'https://directory.bookedin.com/guidovenitucci'
     label: Book Now
-content: []
