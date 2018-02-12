@@ -20,6 +20,10 @@ author:
   email: guido@guidovenitucci.com
   url: www.guidovenitucci.com
 name: Venitucci Photography
+navigation:
+  - name: Gallery
+    url: 'https://'
+    type: external
 content: []
 purpose:
   - type: contact
