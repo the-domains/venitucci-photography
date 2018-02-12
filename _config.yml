@@ -1,20 +1,20 @@
-typography_spectrum: 0.6446674102917314
+layout_spectrum: 0.7515513389348283
+typography_spectrum: 0.0924346974401707
 color:
-  brandStrength: 0.10056354384869337
-  lightness: 0.19157675025053322
-  saturation: 0.10863300785422325
-  rhythmicContrast: 0.6032751828897744
+  brandStrength: 0.10950023928417428
+  lightness: 0.19739616275728117
+  saturation: 0.22532950739154942
+  rhythmicContrast: 0.22480750869351007
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0c80632-8f06-47b2-a7e5-4e7ba459c6d0.jpg
-layout_spectrum: 0.004357554949820042
 author:
   name: Guido Venitucci
   email: guido@guidovenitucci.com
@@ -31,3 +31,4 @@ purpose:
   - type: external
     url: 'https://directory.bookedin.com/guidovenitucci'
     label: Book Now
+content: []
